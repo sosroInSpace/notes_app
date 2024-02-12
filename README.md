@@ -1,7 +1,7 @@
 # notes_app
 Web app general notes.
 
-< **TO DO**:
+**TO DO**:
 1. Themes 
 2. Text Edit functionality (bold underline etc)
 3. Share Note Button - click to email the note out
